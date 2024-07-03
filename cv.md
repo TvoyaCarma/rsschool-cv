@@ -25,3 +25,6 @@ function multiply(a, b){
 
 ## Education
 * **University:** Pedagogical Institute Irkutskiy Goverment University, Civil Oligophrenic pedagogy
+
+## English
+**A1**
