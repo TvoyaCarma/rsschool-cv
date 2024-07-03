@@ -13,3 +13,10 @@ I might be interested in the field of information security
 * HTML
 * CSS
 * JavaScript Basic
+
+## Example code
+```
+function multiply(a, b){
+ return a * b
+}
+```
