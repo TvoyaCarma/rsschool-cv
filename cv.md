@@ -1,4 +1,4 @@
-E# Darya Gorelova
+# Darya Gorelova
 
 ## Contacts
 * **Phone:** +7 (902) 567-88-87
